@@ -1,7 +1,7 @@
-# vagrant :taco: :bowtie:
+# vagrant :taco: :bowtie: :bacon:
 
 
-## GIt and branching
+## GIT and branching
 
 From master and a clean working team:
   git checkout - b name-branch
